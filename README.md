@@ -3,4 +3,4 @@ Lista de tarefa com inclusão e exclusão feita utilizando JavaScript, HTML5 e C
 
 ![img](https://i.imgur.com/gfzlCB0.png)
 
-![img](https://i.imgur.com/zAj2160.png)
+![img](https://i.imgur.com/a8ididf.png)
